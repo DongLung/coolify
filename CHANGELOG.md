@@ -6645,6 +6645,7 @@ All notable changes to this project will be documented in this file.
 - *(hetzner)* Move advanced options into dropdown
 - *(backups)* Consolidate volume backup retention columns
 - *(backups)* Centralize storage deletion guard
+- *(ui)* Remove deploy confirmation modals (#11023)
 
 ### 📚 Documentation
 
@@ -6826,6 +6827,7 @@ All notable changes to this project will be documented in this file.
 - Update changelog
 - *(release)* Document SHA image promotion workflow
 - *(release)* Clarify branch strategy and SHA build flow
+- Update changelog
 
 ### ⚡ Performance
 
@@ -7776,6 +7778,9 @@ All notable changes to this project will be documented in this file.
 - *(release)* Promote SHA-tagged images on release
 - *(release)* Promote SHA-tagged images on release (#10988)
 - Support main branch build and changelog workflows
+- Prepare for PR
+- Tag v4.x SHA images as edge
+- *(images)* Add edge tag for v4.x SHA builds (#11022)
 
 ### ◀️ Revert
 
