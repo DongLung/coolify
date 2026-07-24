@@ -5447,6 +5447,8 @@ All notable changes to this project will be documented in this file.
 - *(backups)* Allow volume backup delete without password when 2FA off
 - *(backups)* Retain volume backups without server
 - *(backups)* Enforce authorization and safe retention
+- *(traefik)* Track v3.7 security updates
+- *(traefik)* Track v3.7 and security patch updates (#11029)
 
 ### 💼 Other
 
@@ -6827,6 +6829,7 @@ All notable changes to this project will be documented in this file.
 - Update changelog
 - *(release)* Document SHA image promotion workflow
 - *(release)* Clarify branch strategy and SHA build flow
+- Update changelog
 - Update changelog
 
 ### ⚡ Performance
